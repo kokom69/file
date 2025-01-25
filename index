@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable GIF</title>
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif; background-color: #f4f4f9;">
+    <h1>Click To Join</h1>
+
+    <!-- Iklan -->
+    <script type="text/javascript">
+        atOptions = {
+            'key': 'cc1be9ad27dde74caa6ead101a2e6599',
+            'format': 'iframe',
+            'height': 90,
+            'width': 728,
+            'params': {}
+        };
+    </script>
+    <script type="text/javascript" src="//perilastronaut.com/cc1be9ad27dde74caa6ead101a2e6599/invoke.js"></script>
+    <script async src="https://serve.adsterra.com/delivery/asyncjs/ads.js"></script>
+    <script type="text/javascript">
+        atOptions = {
+            'key': 'dbca0fcfafd255f7aba8f7d2f93dcb07',
+            'format': 'iframe',
+            'height': 250,
+            'width': 300,
+            'params': {}
+        };
+    </script>
+
+<!-- GIF dengan tautan -->
+    <a href="https://perilastronaut.com/cbuqnsd3?key=ea09cc7582c5f18d1703267d9c5281a7" target="_blank">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgieHgZ2GUKrv9tbZd3QqPdchxg01SO4rU6JeZ_Pfgjc8nhlUfoUydYR9kas85Hv-_70U85bANsVQpUpd40W9twaK9fY26le45GQ-GxRJwZs26GZ2euSTxz_LXm4KaPnXLXnuXPuTtNxJlRN-YXn0r6S6hWBGt-vFUSSP9YCKTyLztr4TDgcvE_4wINCUQ/s320/Biru%20Ilustrasi%20Awan%20Phone%20Wallpaper_20250125_011956_0000.gif" 
+             alt="Clickable GIF" style="width: 400px; height: auto;">
+    </a>
+
+    <script type="text/javascript" src="//perilastronaut.com/dbca0fcfafd255f7aba8f7d2f93dcb07/invoke.js"></script>
+    <script type="text/javascript">
+        atOptions = {
+            'key': '86881cc8df0f466545bc42417ab4d919',
+            'format': 'iframe',
+            'height': 600,
+            'width': 160,
+            'params': {}
+        };
+    </script>
+    <script type="text/javascript" src="//perilastronaut.com/86881cc8df0f466545bc42417ab4d919/invoke.js"></scrip>
+
+    <!-- Link Download -->
+    <p style="margin-top: 20px;">
+        <a href="https://go.paid4link.com/wmarAi" download 
+           style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+            Download Here
+        </a>
+    </p>
+
+    <!-- Iklan lainnya -->
+    <div id="adsterra-ad-1" class="adsterra-ad"></div>
+    <script>
+        var adsterra = adsterra || {};
+        adsterra.ads = adsterra.ads || [];
+        adsterra.ads.push({
+            placement_id: "25570221", // Ganti dengan ID penempatan pertama
+            size: [728, 90],
+            container: "adsterra-ad-1"
+        });
+    </script>
+
+    <div id="adsterra-ad-2" class="adsterra-ad"></div>
+    <script>
+        adsterra.ads.push({
+            placement_id: "25570182", // Ganti dengan ID penempatan kedua
+            size: [300, 250],
+            container: "adsterra-ad-2"
+        });
+    </script>
+
+    <div id="adsterra-ad-3" class="adsterra-ad"></div>
+    <script>
+        adsterra.ads.push({
+            placement_id: "25570227", // Ganti dengan ID penempatan ketiga
+            size: [300, 600],
+            container: "adsterra-ad-3"
+        });
+    </script>
+</body>
+</html>
